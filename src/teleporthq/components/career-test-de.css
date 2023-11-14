@@ -1,0 +1,125 @@
+.career-test-de-container {
+  width: 300px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.career-test-de-frame1427 {
+  gap: 16px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 16px;
+  box-shadow: 0px 0px 2px 0px rgba(5, 20, 41, 0.05999999865889549) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.career-test-de-frame1425 {
+  gap: 4px;
+  width: 268px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.career-test-de-img {
+  width: 268px;
+  height: 135px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
+.career-test-de-image {
+  width: 100%;
+  object-fit: cover;
+}
+.career-test-de-frame1421 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.career-test-de-frame1418 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.career-test-de-text {
+  color: rgb(11, 13, 14);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.career-test-de-text1 {
+  color: rgb(57, 63, 71);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.career-test-de-frame1426 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(11, 113, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  justify-content: center;
+}
+.career-test-de-buttons {
+  gap: 4px;
+  color: var(--dl-color-gray-black);
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  padding: 8px 8px 8px 12px;
+  position: relative;
+  background: none;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.career-test-de-text2 {
+  color: rgb(11, 113, 217);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.career-test-de-arrowrightup {
+  width: 24px;
+  height: 24px;
+}

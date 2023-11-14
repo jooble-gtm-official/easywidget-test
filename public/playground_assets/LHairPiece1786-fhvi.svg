@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='8' height='8' viewBox='0 0 8 8' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g filter='url(#filter0_f_1_786)'>
+<path d='M7.39082 3.69603C7.36694 3.65028 7.34435 3.60359 7.32312 3.556C7.21997 3.29798 6.97026 3.12779 6.6934 3.12779H5.39054C3.5014 3.12779 1.97054 4.67592 1.97054 6.58638V6.86802C1.62254 6.60319 1.18484 6.04454 1.18484 5.1405C1.18484 4.04344 1.98497 3.48892 2.49536 3.1352C2.63945 3.03534 2.76044 2.95149 2.83382 2.87595C2.86499 2.84386 2.89893 2.80786 2.93584 2.76871C3.2936 2.38927 3.93104 1.71319 5.04415 1.41772C5.5537 1.28246 6.06955 1.2429 6.50111 1.24732C7.03534 1.2528 7.41236 1.71435 7.41236 2.24861V3.68226L7.39082 3.69603Z' fill='url(#paint0_radial_1_786)'/>
+<path d='M7.39082 3.69603C7.36694 3.65028 7.34435 3.60359 7.32312 3.556C7.21997 3.29798 6.97026 3.12779 6.6934 3.12779H5.39054C3.5014 3.12779 1.97054 4.67592 1.97054 6.58638V6.86802C1.62254 6.60319 1.18484 6.04454 1.18484 5.1405C1.18484 4.04344 1.98497 3.48892 2.49536 3.1352C2.63945 3.03534 2.76044 2.95149 2.83382 2.87595C2.86499 2.84386 2.89893 2.80786 2.93584 2.76871C3.2936 2.38927 3.93104 1.71319 5.04415 1.41772C5.5537 1.28246 6.06955 1.2429 6.50111 1.24732C7.03534 1.2528 7.41236 1.71435 7.41236 2.24861V3.68226L7.39082 3.69603Z' fill='url(#paint1_radial_1_786)'/>
+</g>
+<defs>
+<filter id='filter0_f_1_786' x='0.902377' y='0.964527' width='6.79244' height='6.18595' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/>
+<feGaussianBlur stdDeviation='0.141234' result='effect1_foregroundBlur_1_786'/>
+</filter>
+<radialGradient id='paint0_radial_1_786' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(7.41236 1.24699) rotate(160.16) scale(4.14236 1.15292)'>
+<stop stop-color='#FFDD30'/>
+<stop offset='1' stop-color='#FFDC2B' stop-opacity='0'/>
+</radialGradient>
+<radialGradient id='paint1_radial_1_786' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(1.59445 6.11837) rotate(-57.7244) scale(6.16842 6.83397)'>
+<stop offset='0.0926981' stop-color='#D67227'/>
+<stop offset='0.233498' stop-color='#EF8A23'/>
+<stop offset='1' stop-color='#EF8A23' stop-opacity='0'/>
+</radialGradient>
+</defs>
+</svg>

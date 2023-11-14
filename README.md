@@ -1,1 +1,2 @@
-# easywidget-React
+# easy-widget
+2

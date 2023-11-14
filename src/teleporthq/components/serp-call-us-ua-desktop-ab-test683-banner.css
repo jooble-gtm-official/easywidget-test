@@ -1,0 +1,88 @@
+.serp-call-us-ua-desktop-ab-test683-banner-container {
+  width: 100%;
+  height: 225px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-frame206889 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 24px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: space-between;
+  background-color: rgba(11, 113, 217, 1);
+}
+.serp-call-us-ua-desktop-ab-test683-banner-frame206817 {
+  gap: 28px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-frame206816 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-text {
+  color: rgba(255, 255, 255, 1);
+  width: 492px;
+  height: auto;
+  text-align: left;
+  line-height: 32px;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-text1 {
+  color: rgba(255, 255, 255, 1);
+  width: 492px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-buttons {
+  gap: 10px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.serp-call-us-ua-desktop-ab-test683-banner-text2 {
+  color: rgb(11, 113, 217);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-frame206880 {
+  gap: 10px;
+  display: flex;
+  padding: 9px 3px;
+  overflow: hidden;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.serp-call-us-ua-desktop-ab-test683-banner-image {
+  width: 155px;
+  object-fit: cover;
+}
+@media(max-width: 1400px) {
+  .serp-call-us-ua-desktop-ab-test683-banner-container {
+    height: 230px;
+  }
+}

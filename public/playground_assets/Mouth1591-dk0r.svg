@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='8' height='4' viewBox='0 0 8 4' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g filter='url(#filter0_f_1_591)'>
+<path d='M1.73031 1.28287L1.73031 1.28288C2.44179 1.65379 3.29087 1.86694 4.19635 1.86694C5.11099 1.86694 5.95081 1.65385 6.6624 1.28288L6.66377 1.28217L6.66377 1.28217C6.85449 1.1852 7.0556 1.24173 7.17605 1.36679C7.29836 1.49379 7.34384 1.69922 7.22105 1.88366C7.22098 1.88375 7.22092 1.88385 7.22085 1.88394L7.09476 1.79986C6.48164 2.72902 5.41331 3.34846 4.19635 3.34846C2.9794 3.34846 1.91107 2.72902 1.29795 1.79986L1.73031 1.28287ZM1.73031 1.28287L1.72894 1.28217C1.53606 1.18411 1.33484 1.24579 1.21594 1.37096C1.09633 1.49687 1.04717 1.7026 1.17233 1.88467L1.73031 1.28287Z' stroke='url(#paint0_radial_1_591)' stroke-width='0.303109'/>
+</g>
+<defs>
+<filter id='filter0_f_1_591' x='0.745315' y='0.879378' width='6.90195' height='2.97426' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/>
+<feGaussianBlur stdDeviation='0.101036' result='effect1_foregroundBlur_1_591'/>
+</filter>
+<radialGradient id='paint0_radial_1_591' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(2.13369 2.73687) rotate(-60.732) scale(1.29986 3.78263)'>
+<stop stop-color='#FFB534'/>
+<stop offset='1' stop-color='#FFB534' stop-opacity='0'/>
+</radialGradient>
+</defs>
+</svg>

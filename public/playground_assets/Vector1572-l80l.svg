@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='41' height='28' viewBox='0 0 41 28' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<path d='M20.1965 0.954712C9.06676 0.954712 0.0604858 9.96098 0.0604858 21.0907V27.4976H40.3324V21.0907C40.3324 9.97929 31.3079 0.954712 20.1965 0.954712Z' fill='url(#paint0_linear_1_572)'/>
+<path d='M20.1965 0.954712C9.06676 0.954712 0.0604858 9.96098 0.0604858 21.0907V27.4976H40.3324V21.0907C40.3324 9.97929 31.3079 0.954712 20.1965 0.954712Z' fill='url(#paint1_radial_1_572)'/>
+<defs>
+<linearGradient id='paint0_linear_1_572' x1='20.1963' y1='2.44024' x2='20.1963' y2='29.784' gradientUnits='userSpaceOnUse'>
+<stop stop-color='#594E72'/>
+<stop offset='1' stop-color='#594984'/>
+</linearGradient>
+<radialGradient id='paint1_radial_1_572' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(33.0008 19.247) rotate(-90) scale(30.0781 11.6607)'>
+<stop offset='0.155797' stop-color='#7B74A6'/>
+<stop offset='1' stop-color='#5F5490' stop-opacity='0'/>
+</radialGradient>
+</defs>
+</svg>

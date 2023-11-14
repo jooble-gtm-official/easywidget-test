@@ -31,8 +31,8 @@ const SecondSearchJobBanner = (props) => {
         <div className="second-search-job-banner-container1">
           <div className="second-search-job-banner-img">
             <img
-              src={props.image_src}
               alt={props.image_alt}
+              src={props.image_src}
               className="second-search-job-banner-image"
             />
           </div>
@@ -44,24 +44,24 @@ const SecondSearchJobBanner = (props) => {
 }
 
 SecondSearchJobBanner.defaultProps = {
-  image_src: '/smilinggirl.png',
   image_alt: 'image',
+  button_link: '',
+  button_click: () => {},
   Title: 'Üdv! A nevem Dóra, én vagyok \u2028a személyes toborzója',
   Content:
     'Hagyja meg a telefonszámát, s én megtalálom a megfelelő állásokat Önnek.',
+  image_src: '/smilinggirl.png',
   Button: 'Profil létrehozása',
-  button_link: '',
-  button_click: () => {},
 }
 
 SecondSearchJobBanner.propTypes = {
-  image_src: PropTypes.string,
   image_alt: PropTypes.string,
-  Title: PropTypes.string,
-  Content: PropTypes.string,
-  Button: PropTypes.string,
   button_link: PropTypes.string,
   button_click: PropTypes.func,
+  Title: PropTypes.string,
+  Content: PropTypes.string,
+  image_src: PropTypes.string,
+  Button: PropTypes.string,
 }
 
 export default SecondSearchJobBanner
