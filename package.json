@@ -1,87 +1,37 @@
 {
-  "name": "@jooble/easy-widget",
-  "version": "0.0.4",
-  "description": "easy-widget",
-  "main": "./dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jooble-gtm-official/easy-widget"
+  "name": "easy_widget",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^7.0.0-alpha.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-helmet": "^6.1.0",
+    "prop-types": "15.7.2"
   },
-  "publishConfig": {
-    "@jooble:registry": "https://gitlab.jooble.com/api/v4/projects/1208/packages/npm/"
-  },
-  "author": "ahu@jooble.com",
-  "license": "ISC",
-  "private": false,
   "scripts": {
-    "build:production": "node scripts/build.js",
-    "lint": "eslint --debug src/",
-    "publish": "npm publish",
-    "lint:write": "eslint --debug src/ --fix",
-    "test": "jest --config ./jest.config.js"
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test --env=jsdom",
+    "eject": "craco eject"
   },
-  "browserslist": [
-    "defaults",
-    "not dead",
-    "> .25%"
-  ],
-  "browser": {
-    "fs": false
+  "engines": {
+    "node": "18.x"
   },
-  "files": [
-    "dist"
-  ],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "devDependencies": {
-    "@babel/core": "^7.12.3",
-    "@babel/plugin-proposal-class-properties": "^7.5.0",
-    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.7.4",
-    "@babel/plugin-proposal-object-rest-spread": "^7.3.2",
-    "@babel/plugin-proposal-optional-chaining": "^7.7.5",
-    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
-    "@babel/plugin-transform-regenerator": "^7.0.0",
-    "@babel/plugin-transform-runtime": "^7.2.0",
-    "@babel/preset-env": "^7.12.1",
-    "@babel/preset-react": "^7.18.6",
-    "@babel/preset-typescript": "^7.1.0",
-    "@babel/register": "^7.4.4",
-    "@hot-loader/react-dom": "^16.12.0",
-    "autoprefixer": "^9.3.1",
-    "babel-eslint": "^10.0.3",
-    "babel-loader": "^8.1.0",
-    "case-sensitive-paths-webpack-plugin": "^2.3.0",
-    "copy-webpack-plugin": "^6.4.1",
-    "css-loader": "^5.2.1",
-    "eslint": "^7.13.0",
-    "eslint-config-airbnb": "^18.2.0",
-    "eslint-config-airbnb-typescript": "^12.0.0",
-    "eslint-config-prettier": "^7.1.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.3.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.21.5",
-    "eslint-plugin-react-hooks": "^4.2.0",
-    "extract-css-chunks-webpack-plugin": "^4.7.5",
-    "file-loader": "^2.0.0",
-    "mini-css-extract-plugin": "^1.4.1",
-    "optimize-css-assets-webpack-plugin": "^5.0.1",
-    "postcss-loader": "^3.0.0",
-    "prettier": "^2.2.1",
-    "react": "16.10.2",
-    "react-dev-utils": "^11.0.3",
-    "react-dom": "16.10.2",
-    "react-hot-loader": "^4.6.5",
-    "react-is": "^17.0.1",
-    "resolve-url-loader": "^3.1.1",
-    "sass": "^1.27.0",
-    "sass-loader": "^10.1.1",
-    "style-loader": "^2.0.0",
-    "terser-webpack-plugin": "^1.2.3",
-    "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
-    "webpack-node-externals": "3.0.0"
-  },
-  "peerDependencies": {
-    "react": "16.x",
-    "react-dom": "16.x"
+    "react-scripts": "^5.0.1"
   }
 }

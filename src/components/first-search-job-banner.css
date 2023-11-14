@@ -1,6 +1,6 @@
 .first-search-job-banner-container {
   width: 302px;
-  height: 400px;
+  height: 411px;
   display: flex;
   position: relative;
   align-items: flex-start;
@@ -16,6 +16,7 @@
   flex-shrink: 0;
   border-radius: 8px;
   flex-direction: column;
+  padding-bottom: 20px;
   background-color: rgba(255, 255, 255, 1);
 }
 .first-search-job-banner-rectangle1257 {
@@ -98,6 +99,7 @@
   font-family: "Inter";
   line-height: 20px;
   font-stretch: normal;
+  padding-left: 10px;
   text-decoration: none;
 }
 .first-search-job-banner-text3 {
@@ -111,6 +113,7 @@
   font-weight: 400;
   line-height: 20px;
   font-stretch: normal;
+  padding-left: 10px;
   text-decoration: none;
 }
 .first-search-job-banner-text4 {
@@ -124,6 +127,7 @@
   font-weight: 400;
   line-height: 20px;
   font-stretch: normal;
+  padding-left: 10px;
   text-decoration: none;
 }
 .first-search-job-banner-frame542 {
