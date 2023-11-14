@@ -1,0 +1,125 @@
+.component3-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component3-frame1427 {
+  gap: 16px;
+  width: 297px;
+  height: auto;
+  display: flex;
+  padding: 16px;
+  box-shadow: 0px 0px 2px 0px rgba(5, 20, 41, 0.05999999865889549) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.component3-frame1425 {
+  gap: 4px;
+  width: 268px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.component3-img {
+  width: 268px;
+  height: 135px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
+.component3-image {
+  width: 100%;
+  object-fit: cover;
+}
+.component3-frame1421 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component3-frame1418 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component3-text {
+  color: rgb(11, 13, 14);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component3-text1 {
+  color: rgb(57, 63, 71);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component3-frame1426 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(11, 113, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  justify-content: center;
+}
+.component3-buttons {
+  gap: 4px;
+  color: var(--dl-color-gray-black);
+  width: 100%;
+  border:  none;
+  cursor: pointer;
+  display: flex;
+  padding: 8px 8px 8px 12px;
+  background: none;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.component3-text2 {
+  color: rgb(11, 113, 217);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.component3-arrowrightup {
+  width: 24px;
+  height: 24px;
+}

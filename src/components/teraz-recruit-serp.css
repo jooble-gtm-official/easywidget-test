@@ -1,0 +1,160 @@
+.teraz-recruit-serp-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.teraz-recruit-serp-link {
+  display: contents;
+}
+.teraz-recruit-serp-frame637 {
+  gap: 8px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 24px 24px 20px;
+  box-shadow: 0px -2px 0px 0px #0b71d9;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teraz-recruit-serp-frame632 {
+  gap: 12px;
+  display: flex;
+  padding: 0 0 4px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.teraz-recruit-serp-logo41 {
+  width: 32px;
+  height: 32px;
+}
+.teraz-recruit-serp-text {
+  color: #0b71d9;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-text01 {
+  color: #393f47;
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: -8px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-text02 {
+  color: rgba(11, 13, 14, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-text04 {
+  color: rgba(56, 62, 71, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-frame635 {
+  gap: 12px;
+  display: flex;
+  padding: 4px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.teraz-recruit-serp-frame633 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+}
+.teraz-recruit-serp-check {
+  width: 24px;
+  height: 24px;
+}
+.teraz-recruit-serp-text06 {
+  color: rgba(56, 62, 71, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-frame634 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+}
+.teraz-recruit-serp-check1 {
+  width: 24px;
+  height: 24px;
+}
+.teraz-recruit-serp-text08 {
+  color: rgba(56, 62, 71, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teraz-recruit-serp-frame6351 {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+}
+.teraz-recruit-serp-check2 {
+  width: 24px;
+  height: 24px;
+}
+.teraz-recruit-serp-text10 {
+  color: rgba(56, 62, 71, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}

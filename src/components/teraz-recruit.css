@@ -1,0 +1,103 @@
+.teraz-recruit-container {
+  width: 300px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.teraz-recruit-frame1427 {
+  gap: 16px;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 16px;
+  align-self: flex-start;
+  box-shadow: 0px 0px 2px 0px rgba(5, 20, 41, 0.05999999865889549) ;
+  align-items: flex-start;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teraz-recruit-frame1425 {
+  gap: 4px;
+  width: 268px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.teraz-recruit-img {
+  width: 268px;
+  height: 135px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+}
+.teraz-recruit-image {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+}
+.teraz-recruit-frame1421 {
+  gap: 2px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.teraz-recruit-frame1418 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.teraz-recruit-text {
+  color: var(--dl-color-gray-black);
+  height: auto;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+}
+.teraz-recruit-text1 {
+  color: var(--dl-color-gray-graydark);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 24px;
+}
+.teraz-recruit-buttons {
+  gap: 8px;
+  color: var(--dl-color-gray-white);
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(19, 127, 99, 1);
+}
+.teraz-recruit-text3 {
+  color: RGB(255,255,255,1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
